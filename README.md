@@ -4,5 +4,5 @@ Simple Unity3D game scripted and assembled by me at Weather Gage Workshop. It is
 
 There are two things I'd like to try next. The first is to swing back around to JavaScript and try scripting a Unity3D game with that. The other is to try Unreal, which is now free! That would mean going back to C++, but after so long away, that might not be a bad idea.
 
-Check out the design doc at http://goo.gl/m0Flmi
+Check out the design doc at http://goo.gl/m0Flmi<br />
 See more Weather Gage Workshop at http://www.wgworkshop.com/
